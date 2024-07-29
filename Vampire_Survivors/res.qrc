@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/R.jpg</file>
+        <file>res/R-C.jpg</file>
+        <file>res/lawn-2.jpg</file>
+        <file>res/lamn.jpg</file>
+        <file>res/enemy_2.png</file>
+        <file>res/Antonio.png</file>
+        <file>res/bullet_1.png</file>
+        <file>res/enemy_1.png</file>
+        <file>res/obstacle1.png</file>
+        <file>res/IOOhlN.png</file>
+        <file>res/Porta-pixian.png</file>
+        <file>res/Porta.png</file>
+        <file>res/R-C (1).jpg</file>
+        <file>res/R-C (2).png</file>
+        <file>res/upgrade.png</file>
+        <file>res/weapon-right.png</file>
+        <file>res/weapon-down.png</file>
+        <file>res/weapon-left.png</file>
+        <file>res/weapon-up.png</file>
+        <file>res/coins.png</file>
+        <file>res/win.jpg</file>
+        <file>res/lose.jpg</file>
+        <file>res/revive.jpg</file>
+        <file>res/bullet_2.png</file>
+        <file>res/music.mp3</file>
+        <file>res/coin.png</file>
+        <file>res/weapon.jpg</file>
+    </qresource>
+</RCC>
